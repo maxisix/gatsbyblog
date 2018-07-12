@@ -1,5 +1,5 @@
 ---
-title: "Level Up Pro Gatsby to the new blog"
+title: "Maxisix Gatsby to the new blog"
 date: "2018-02-21"
 ---
 
