@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: bitbucket
+  repo: maxim_beaudoin/gatsbyblog
 
 media_folder: static/assets
 
