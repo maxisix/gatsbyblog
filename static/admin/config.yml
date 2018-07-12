@@ -1,6 +1,6 @@
 backend:
-  name: bitbucket
-  repo: maxim_beaudoin/gatsbyblog
+  name: github
+  repo: maxisix/gatsbyblog
 
 media_folder: static/assets
 
